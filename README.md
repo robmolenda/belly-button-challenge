@@ -6,4 +6,4 @@ The app.js file can be found within the statis/js folder. In the main folder you
 
 # Resources used
 
-I consulted the Xpert Learning Assistance for help with slicing and reversing data for the bar chart.
+I consulted the Xpert Learning Assistance along with askBCS (ask-310943) for help with slicing and reversing data and assistance in building the bar chart.
